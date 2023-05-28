@@ -1,0 +1,50 @@
+﻿
+Identifier: MEX-INEGI.40.202.03-CNSPE-2021
+
+Title: Censo Nacional de Seguridad Pública Estatal 2021
+
+Description: INEGI. Censo Nacional de Seguridad Pública Estatal 2021. 
+
+Tiene como objetivo generar información estadística y geográfica sobre la gestión y desempeño de la institución encargada de la función de seguridad pública de cada entidad federativa, específicamente en dicha función, con la finalidad de que esta se vincule con el quehacer gubernamental dentro del proceso de diseño, implementación, monitoreo y evaluación de las políticas públicas de alcance nacional en el referido tema.
+
+El CNSPE 2021 presenta datos e información sobre:
+
+1. La infraestructura de la institución encargada de la función de seguridad pública de cada entidad federativa, así como de los recursos humanos, presupuestales y materiales de los que dispone para el ejercicio de dicha función.
+
+2. Las puestas a disposición de personas ante el Juez Cívico u Oficial Calificador y ante el Ministerio Público, realizadas por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+3. Los aseguramientos de armas, hidrocarburos, narcóticos, vehículos y mercancía apócrifa, realizados por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+4. Los operativos policiales, patrullajes, inspecciones, remisiones de vehículos y custodias, llevadas a cabo por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+5. Los servicios de atención a víctimas y localización de personas desaparecidas, prestados por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+6. La facultad en materia de tránsito y vialidad que tiene la institución encargada de la función de seguridad pública de cada entidad federativa, así como de las infracciones de tránsito registradas en las boletas de infracción levantadas y en las imágenes detectadas por los sistemas de foto multa o foto infracción.
+
+7. Los hechos probablemente delictivos en carreteras de jurisdicción estatal, registrados por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+8. Los enfrentamientos en los que participaron elementos de la institución encargada de la función de seguridad pública de cada entidad federativa, así como del personal y civiles armados fallecidos, lesionados y detenidos como resultado de dichos enfrentamientos.
+
+9. Las características de los objetos robados y recuperados por la institución encargada de la función de seguridad pública de cada entidad federativa.
+
+Modified: 2022-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx 
+
+License: http://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/734/data-dictionary
+
+Keyword: "Infraestructura", "Presupuesto", "Personal", "Academias o institutos de formación policial", "Puestas a disposición", "Aseguramientos", "Víctimas", "Personas desaparecidas", "Hechos probablemente delictivos en carreteras", "Enfrentamientos","Objetos robados y recuperados"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2020-01-01-2020-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/cnspe/2021/

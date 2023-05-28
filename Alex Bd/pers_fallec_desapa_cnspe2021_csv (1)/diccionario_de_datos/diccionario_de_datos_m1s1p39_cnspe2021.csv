@@ -1,0 +1,22 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I 1.39,Numérico,2,1 al 99
+cafallec_c,Causa del fallecimiento,SECC I 1.39,Numérico,4,100 al 9999
+orgpoltt,Total,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol1,Total - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol2,Total - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol3,Corporaciones policiales - Policía preventiva - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol4,Corporaciones policiales - Policía preventiva - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol5,Corporaciones policiales - Policía de tránsito - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol6,Corporaciones policiales - Policía de tránsito - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol7,"Corporaciones policiales - Policía bancaria, comercial y/o auxiliar - Hombres",SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol8,"Corporaciones policiales - Policía bancaria, comercial y/o auxiliar - Mujeres",SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol9,Corporaciones policiales - Policía cibernética - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol10,Corporaciones policiales - Policía cibernética - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol11,Corporaciones policiales - Otro tipo de corporación policial - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol12,Corporaciones policiales - Otro tipo de corporación policial - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol13,Áreas de dirección - Mandos - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol14,Áreas de dirección - Mandos - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol15,Áreas de dirección - Áreas administrativas - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol16,Áreas de dirección - Áreas administrativas - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol17,Áreas de apoyo - Hombres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+orgpol18,Áreas de apoyo - Mujeres,SECC I 1.39,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

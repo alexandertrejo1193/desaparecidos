@@ -1,0 +1,15 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I 1.41,Numérico,2,1 al 99
+objutico_a,Objeto utilizado para la comisión,SECC I 1.41,Numérico,1,1 al 9
+homsui1,Homicidio - Total,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui2,Homicidio - Hombres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui3,Homicidio - Mujeres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsuis1,Homicidio - Doloso - Subtotal,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui5,Homicidio - Doloso - Hombres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui6,Homicidio - Doloso - Mujeres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsuis2,Homicidio - Culposo - Subtotal,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui8,Homicidio - Culposo - Hombres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui9,Homicidio - Culposo - Mujeres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui14,Suicidio - Total,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui15,Suicidio - Hombres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+homsui16,Suicidio - Mujeres,SECC I 1.41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,3 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I 1.45,Numérico,2,1 al 99
+rensnn1,Registro de la desaparición o no localización de alguno de los servidores públicos de la institución encargada de la función de seguridad pública,SECC I 1.45,Numérico,2,0 al 98

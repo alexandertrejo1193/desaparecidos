@@ -1,0 +1,21 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I 1.44,Numérico,2,1 al 99
+ubicageo_c,Clave de municipio o demarcación territorial,SECC I 1.44,Numérico,5,0 al 32999
+municip1,Nombre de municipio o demarcación territorial,SECC I 1.44,Carácter,2500,
+evefaltt,Total,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal1,Total - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal2,Total - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal3,Enfrentamientos con civiles armados (incluye delincuencia organizada) - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal4,Enfrentamientos con civiles armados (incluye delincuencia organizada) - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal5,Desorden civil (linchamientos) - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal6,Desorden civil (linchamientos) - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal7,Labores de tránsito de vehículos (apoyo vial) - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal8,Labores de tránsito de vehículos (apoyo vial) - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal9,Persecución de sospechoso - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal10,Persecución de sospechoso - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal11,"Perturbación (pelea de bar, riñas, etc.) - Hombres",SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal12,"Perturbación (pelea de bar, riñas, etc.) - Mujeres",SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal13,Accidente vehicular por patrullajes - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal14,Accidente vehicular por patrullajes - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal15,Otro evento - Hombres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evefal16,Otro evento - Mujeres,SECC I 1.44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

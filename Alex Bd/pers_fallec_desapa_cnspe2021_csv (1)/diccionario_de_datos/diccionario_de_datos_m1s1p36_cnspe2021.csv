@@ -1,0 +1,7 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I 1.36,Numérico,2,1 al 99
+orgapoli_b,Clasificación del tipo de organizaciones policiales,SECC I 1.36,Numérico,1,1 al 9
+orgapoli_c,Tipo de organización policial,SECC I 1.36,Numérico,1,1 al 9
+sexostt,Total,SECC I 1.36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I 1.36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I 1.36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
