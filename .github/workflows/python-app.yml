@@ -1,0 +1,15 @@
+name: Data mining
+on:
+  schedule:
+    - cron: "36 12 * * 1"
+   
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        name: Run a Python script 
+      - run: python .github/workflows/Desaparecidos.py
