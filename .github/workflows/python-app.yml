@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ejecutar script Python
-        run: python Alex Bd/Project/Desaparecidos.ipynb
+        run: python .github/workflows/Desaparecidos.py
       - name: Push a main
         run: |
              git config --local user.email "email@gmail.com"
