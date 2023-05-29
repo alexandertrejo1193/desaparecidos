@@ -6,10 +6,8 @@ on:
       - main
 
 jobs:
-  open-file:
-    runs-on: ubuntu-latest
-
-    steps:
+  runs-on: ubuntu-latest
+  steps:
     - name: Checkout del repositorio
       uses: actions/checkout@v2
 
