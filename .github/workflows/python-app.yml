@@ -30,3 +30,10 @@ jobs:
 
       - name: Ejecutar script Python
         run: python .github/workflows/Desaparecidos.py
+      - name: Push a main
+        run: |
+             git config --local user.email "email@gmail.com"
+             git config --local user.name "username"
+             git add *
+             git commit -m "Actualizacion"
+             git push origin main
