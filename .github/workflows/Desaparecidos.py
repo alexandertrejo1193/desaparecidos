@@ -10,15 +10,11 @@ ESTADOS = ['Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche
  'Tabasco', 'Tamaulipas','Tlaxcala', 'Veracruz','Yucatán',
 'Zacatecas','México']
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-url="https://versionpublicarnpdno.segob.gob.mx/Dashboard/ContextoGeneral"
-driver=webdriver.Chrome('./chromedriver.exe')
-driver.get(url)
-all_cookies=driver.get_cookies()
-COOKIE="ASP.NET_SessionId=bmaqoqfbffauwy0bxvay1g42; .AspNet.ApplicationCookie="+all_cookies[0]['value']
-print(COOKIE)
-driver.close()
+session = requests.Session()
+url = "https://versionpublicarnpdno.segob.gob.mx/Dashboard/ContextoGeneral"
+response = session.get(url)
+all_cookies=session.cookies.get_dict()[".AspNet.ApplicationCookie"]
+COOKIE="ASP.NET_SessionId=bmaqoqfbffauwy0bxvay1g42; .AspNet.ApplicationCookie="+all_cookies
 
 url = "https://versionpublicarnpdno.segob.gob.mx/ContextoGeneral/MapChartEntidades"
 
