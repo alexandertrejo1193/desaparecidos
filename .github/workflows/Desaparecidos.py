@@ -1,6 +1,7 @@
 import json
 import requests
 import pandas as pd
+import openpyxl
 
 ESTADOS = ['Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
  'Coahuila', 'Colima', 'Chiapas', 'Chihuahua','Ciudad de México',
