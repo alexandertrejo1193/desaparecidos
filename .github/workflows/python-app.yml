@@ -1,7 +1,7 @@
 name: Data mining
 on:
   schedule:
-    - cron: "36 12 * * 1"
+    - cron: "52 12 * * 1"
    
 permissions:
   contents: read
