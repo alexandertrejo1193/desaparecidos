@@ -1,8 +1,10 @@
 name: Abrir archivo Python
 
 on:
-  schedule:
-    - cron: "* * * * *"
+  push:
+    branches:
+      - main
+
 
 jobs:
   build:
