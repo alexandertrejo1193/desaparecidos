@@ -1,0 +1,14 @@
+id	nombree	nombrelargo	fondo	color	borde	anillo	inicial	antes
+milenio	Milenio	Cártel del Milenio	#a7a9ac	#6e6f71	#a69f44	#a69f44	M	
+oaxaca	Oaxaca	Cártel de Oaxaca	#a7a9ac	#6e6f71	#a69f44	#8fc64f	O	
+colima	Colima	Cártel de Colima	#a7a9ac	#6e6f71	#54c8f2	#54c8f2	C	
+beltran-leyva	Beltrán Leyva	Cártel de los Beltrán Leyva	#e1a632	#7d5c10	#7d5c10	#ffffff	BL	
+jalisco-nueva-generacion	Jalisco Nueva Generación	Cártel Jalisco Nueva Generación	#e1a632	#7d5c10	#7d5c10	#ffffff	JNG	
+sinaloa	Sinaloa	Cártel de Sinaloa	#e1a632	#7d5c10	#7d5c10	#ffffff	S	
+guadalajara	Guadalajara	Cártel de Guadalajara	#a69f44	#5e5d21	#5e5d21	#ffffff	CG	Organización de Sinaloa
+juarez	Juárez	Cártel de Juárez	#8fc64f	#4d752a	#4d752a	#ffffff	J	
+tijuana	Tijuana	Cártel de Tijuana	#54c8f2	#2d7791	#2d7791	#ffffff	T	
+golfo	Golfo	Cártel del Golfo	#b09bc7	#685b78	#685b78	#ffffff	G	
+zetas	Zetas	Los Zetas	#b09bc7	#685b78	#685b78	#ffffff	Z	
+familia-michoacana	Familia Michoacana	La Familia Michoacana	#b09bc7	#685b78	#685b78	#ffffff	FM	
+caballeros-templarios	Caballeros Templarios	Los Caballeros Templarios	#b09bc7	#685b78	#685b78	#ffffff	CT	
